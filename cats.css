@@ -4,3 +4,7 @@ li{
 h4{
     text-decoration: underline;
 }
+p{
+    background-color: chocolate;
+    margin-right: 50%;
+}
